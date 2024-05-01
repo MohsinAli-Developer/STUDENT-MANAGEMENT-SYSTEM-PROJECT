@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SMS-WEB-APPLICATION/.vs/SMS-WEB-APPLICATION
+/SMS-WEB-APPLICATION/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/SMS-WEB-APPLICATION/SMS-WEB-APPLICATION/bin
+/SMS-WEB-APPLICATION/SMS-WEB-APPLICATION/obj/Debug
